@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "nombre": "James Rdodríguez",
+    "bio": "Es un futbolista colombiano que juega como centrocampista en el FC Bayern Múnich de la Bundesliga de Alemania. Es también internacional con la selección colombiana. ",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/56/James_Training_2018-01-28_FC_Bayern_Muenchen-4.jpg",
+    "fechaNacimiento": "12/07/1991"
+  },
+  {
+    "id": 2,
+    "nombre": "Falcao García",
+    "bio": "Es un futbolista colombiano que juega como delantero en la Association Sportive de Monaco Football Club de la Ligue 1 de Francia. Debutó profesionalmente en el extinto club colombiano Lanceros Boyacá.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e4/FWC_2018_-_Round_of_16_-_COL_v_ENG_-_Photo_092.jpg",
+    "fechaNacimiento": "10/02/1986"
+  },
+  {
+    "id": 3,
+    "nombre": "Mariana Pajón",
+    "bio": "Es una deportista, bicicrosista, ciclista de BMX y doble medallista de oro olímpica. Es reconocida por ser la número uno en el escalafón mundial de la UCI, Medallista de oro en los Juegos Olímpicos de Río 20161​ y Juegos Olímpicos de Londres 2012,",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/MarianaPajon.jpg",
+    "fechaNacimiento": "10/10/1991"
+  },
+  {
+    "id": 4,
+    "nombre": "Caterine Ibargüen",
+    "descripcion": "es una atleta colombiana de salto de longitud, salto de altura y triple salto, especialidad en la que ostenta una medalla de oro en los Juegos Olímpicos de Río de Janeiro 2016.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Caterine_Ibargüen_Beijing_2015.jpg",
+    "fechaNacimiento": "12/02/1984"
+  },
+  {
+    "id": 5,
+    "nombre": "Cristiano Ronaldo",
+    "descripcion": "es un futbolista portugués que juega como delantero en la Juventus de Turín de la Serie A de Italia y en la selección de Portugal, de la que es capitán.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+    "fechaNacimiento": "05/02/1985"
+  }
+]

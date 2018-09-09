@@ -1,0 +1,16 @@
+{
+  "name": "tsportback",
+  "version": "1.0.0",
+  "description": "Back para el proyecto de TSport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfonso Ardila",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
